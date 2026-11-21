@@ -1,0 +1,9 @@
+Package: org.lime.chess
+Name: Lich
+Depends: 
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Lichess client for iOS 5.1 (Board API)
+Maintainer: you <you@example.org>
+Author: you <you@example.org>
+Section: Games
